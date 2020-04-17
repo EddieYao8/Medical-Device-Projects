@@ -15,3 +15,4 @@ Collaborators:
 - Costa Rica: UCIMED
 - Houston: Baylor College of Medicine Simulation Lab
 - Brazil
+- Utah: University of Utah
