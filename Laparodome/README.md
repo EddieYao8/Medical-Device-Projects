@@ -20,7 +20,7 @@ Collaborators:
 - Brazil
 - Utah: University of Utah
 
-**BOM**
+**BOM for One Training Device and Kit**
 - 1 complete laser cut Laparodome cardboard sheet, including:  
   ○ Sheet with dome, phone holder and task boxes pattern  
   ○ Sheet with base pattern  
