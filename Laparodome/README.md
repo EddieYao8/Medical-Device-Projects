@@ -14,7 +14,7 @@ Laparoscopic surgery represents the new standard of care for operations due to b
 
 Laparodome Final Version = V14_FINAL.ai
 
-Collaborators: 
+**Collaborators: **
 - Costa Rica: UCIMED
 - Houston: Baylor College of Medicine
 - Brazil: Hospital de Amor Barretos
