@@ -16,8 +16,8 @@ A need for a cost-effective and reusable laparoscopic trainer for residents & me
 
 Collaborators: 
 - Costa Rica: UCIMED
-- Houston: Baylor College of Medicine Simulation Lab
-- Brazil
+- Houston: Baylor College of Medicine
+- Brazil: Hospital de Amor
 - Utah: University of Utah
 
 **BOM for One Training Device and Kit**
