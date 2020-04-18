@@ -32,7 +32,7 @@ strip compatible to penrose drain velcro
   ○ 1 cardboard peg board  
   ○ 1 cardboard task platform  
   ○ 12 pegs / wooden dowels  
-- For task component creation (please see BOM for links to recommended products):  
+- For task component creation (please see BOM+Cost Analysis Sheet for links to recommended products):  
   ○ 100 mm x 100 mm (4 in. x 4 in.) 2-ply (or more) gauze  
   ○ 2+ triangular pencil grips  
   ○ Dark thin tipped marker  
