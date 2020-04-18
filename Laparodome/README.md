@@ -11,7 +11,7 @@ Laparoscopic surgery represents the new standard of care for operations due to b
 
 Laparodome Final Version = V14_FINAL.ai
 
-Need Statement:
+**Need Statement:**
 A need for a cost-effective and reusable laparoscopic trainer for residents & medical students in order to meet minimum standards for basic cognitive & technical skills used in performing laparoscopic procedures
 
 Collaborators: 
@@ -20,7 +20,7 @@ Collaborators:
 - Brazil
 - Utah: University of Utah
 
-BOM  
+**BOM**
 - 1 complete laser cut Laparodome cardboard sheet, including:  
   ○ Sheet with dome, phone holder and task boxes pattern  
   ○ Sheet with base pattern  
