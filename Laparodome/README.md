@@ -1,5 +1,5 @@
 
-# **Laparodome**  
+# **Laparodome - A Laparoscopic Trainer**  
 
 Edward Yao, Ellie Reynolds, Erik Wu, Rocky Browder MD  
 Rice University - Master of Bioengineering Medical Innovation Track  
