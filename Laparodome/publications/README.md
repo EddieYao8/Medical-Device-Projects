@@ -1,5 +1,5 @@
 Publications/Abstract Submissions
 
 Conferences:
-- HGHC
+- Houston Global Health Collaborative (HGHC)
 - SAGES 2020 Emerging Technologies 
