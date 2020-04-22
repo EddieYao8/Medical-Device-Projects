@@ -3,7 +3,7 @@ Includes Instructions for Assembly, Instructions for Use, BOM + Cost Analysis, S
 **Manufacturing Process: Laser Cutter**
 
 **Supplementary App Available on App Store:**  
-
+Alternative Video: Use Video Recording on Smart Phone, Instructions and Requirements included in Manual
 
 # Laparodome Components
 - Dome
