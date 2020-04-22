@@ -17,7 +17,7 @@ Laparoscopic surgery represents the new standard of care for operations due to b
 ![alt text](https://github.com/EddieYao8/Medical-Device-Projects/blob/master/Laparodome/media/Laparodome_V14.JPG?raw=true)
 
 
-## **Collaborators:**
+## **Collaborators**
 - Costa Rica: UCIMED - Dr. Maria Calvo
 - Houston: Baylor College of Medicine - Dr. Nilson Salas
 - Utah: University of Utah - Dr. Raymond Price
