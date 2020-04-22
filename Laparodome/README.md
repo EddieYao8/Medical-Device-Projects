@@ -14,6 +14,9 @@ Laparoscopic surgery represents the new standard of care for operations due to b
 
 Laparodome Final Version = V14_FINAL.ai
 
+![alt text](https://github.com/EddieYao8/Medical-Device-Projects/blob/master/Laparodome/media/Laparodome_V14.JPG?raw=true)
+
+
 **Collaborators:**
 - Costa Rica: UCIMED
 - Houston: Baylor College of Medicine
