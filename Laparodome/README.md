@@ -1,5 +1,5 @@
 
-**Laparodome**  
+#**Laparodome**  
 
 Edward Yao, Ellie Reynolds, Erik Wu, Rocky Browder MD  
 Rice University - Master of Bioengineering Medical Innovation Track  
@@ -18,10 +18,11 @@ Laparoscopic surgery represents the new standard of care for operations due to b
 
 
 **Collaborators:**
-- Costa Rica: UCIMED
-- Houston: Baylor College of Medicine
-- Brazil: Hospital de Amor Barretos
-- Utah: University of Utah
+- Costa Rica: UCIMED - Dr. Maria Calvo
+- Houston: Baylor College of Medicine - Dr. Nilson Salas
+- Utah: University of Utah - Dr. Raymond Price
+- Brazil: Hospital de Amor Barretos - Dr. Luis Romagnolo
+
 
 **BOM for One Training Device and Kit**
 - 1 complete laser cut Laparodome cardboard sheet, including:  
