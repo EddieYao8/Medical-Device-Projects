@@ -8,6 +8,7 @@ Includes Instructions for Assembly, Instructions for Use, BOM + Cost Analysis, S
 # Laparodome Components
 - Dome
 - Base
+- Smartphone Holder
 - Tasks
   - Pegboard Box
   - Gauze Pattern Cut
