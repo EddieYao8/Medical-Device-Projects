@@ -18,7 +18,31 @@ Laparoscopic surgery represents the new standard of care for operations due to b
 ![alt text](https://github.com/EddieYao8/Medical-Device-Projects/blob/master/Laparodome/media/Laparodome_V14.JPG?raw=true)
 
 ## **Assembly Instructions/Instructions for Use** 
-See files in Manual  
+See files in manual folder.   
+
+## **Potential Next Design Steps**  
+**User Validation** 
+- Additional user feedback from experienced laparoscopic surgeons/educators 
+- Further testing to ensure students can train solely on the device and achieve sufficiency standards 
+
+**Overall Structure** 
+- Manufacture using rigid plastic for enhanced durability 
+- Manufacture chipboard design using die cutting techniques for improved efficiency
+- More ports at different angles
+- Compatibility with web camera and monitor setup
+
+**Tasks/Modules** 
+- Add more suturing tasks
+- Improve upon endoloop configuration in Laparodome
+- Include camera operation and manipulation training
+- Incorporate training for specific laparoscopic procedures
+- Provide insight for locally sourced materials for tasks in extremely low-resource settings
+
+**Software** 
+- Develop assembly video and incorporate into app
+- Improve app UX and update app for bugs
+- Allow for remote live viewing of training through app
+
 
 ## **Collaborators**
 - Costa Rica: UCIMED - Dr. Maria Calvo
