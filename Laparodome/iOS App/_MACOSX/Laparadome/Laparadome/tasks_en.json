@@ -1,0 +1,157 @@
+[
+    {
+        "id": 1,
+        "name": "Peg Transfer",
+        "instructions": [
+            "Timing begins when first object is touched. Timing ends upon release of last object.",
+            "Pick up each object using grasper in non-dominant hand.",
+            "Transfer the object mid-air to dominant hand.",
+            "Place the object onto a peg on the opposite peg side of the pegboard, switching patterns. There is no importance for color or order of transfer.",
+            "Repeat until all objects have been transferred to opposite side of the board.",
+            "When all 6 objects have been moved, reverse the process, starting with dominant hand and transferring to non-dominant hand."
+        ],
+        "penalties": [
+            "Maximum time: 300 secs",
+            "Time limit for proficiency: 48 secs",
+            "Dropping an object outside the field of view",
+            "Instrument leaving the field of view"
+        ],
+        "timeLimit": 50,
+        "evaluationQuestions": [
+            {
+                "question": "Did you drop a peg outside field of view?",
+                "expectedValue": false
+            },
+            {
+                "question": "Did your instrument leave the field of view?",
+                "expectedValue": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pattern Cut",
+        "instructions": [
+            "Timing begins when gauze is touched. Timing ends when marked circle is completely cut from gauze. ",
+            "Provide traction to gauze using Maryland dissector in either hand",
+            "Use scissors in other hand to cut into the gauze and in between training circles drawn on gauze until it is completely removed. ",
+            "Only top layer needs to be cut. Bottom layers of multi-ply gauze can be cut as much or as little as desired. ",
+            "Gauze cannot be reaffixed to clip if pulled out during task. "
+        ],
+        "penalties": [
+            "Maximum time: 300 secs",
+            "Time limit for proficiency: 98 secs",
+            "Cutting into or outside training lines drawn on gauze"
+        ],
+        "timeLimit": 98,
+        "evaluationQuestions": [
+            {
+                "question": "Did you cut outside the training lines?",
+                "expectedValue": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ligating Loop",
+        "instructions": [
+            "Timing when instrument or loop is visible. Timing ends when end of loop material is cut. ",
+            "Using the grasper or Maryland dissector in one hand and the pre-tied ligating loop in the other, position the loop around the marked target on the appendage of the foam organ. ",
+            "Break off the end of the plastic pusher at the mark and secure the knot by sliding the pusher rod down, within 1 mm of the mark. ",
+            "Introduce the scissors and cut the end of the loop material. For practicing, you may simulate cutting the loop to save resources. "
+        ],
+        "penalties": [
+            "Maximum time: 180 secs",
+            "Time limit for proficiency: 53 secs",
+            "Loop not secured fully around the appendage",
+            "Loop > 1 mm away from mark on appendage"
+        ],
+        "timeLimit": 53,
+        "evaluationQuestions": [
+            {
+                "question": "Is the loop securely on the appendage?",
+                "expectedValue": true
+            },
+            {
+                "question": "Is the loop < 1 mm away from the mark on the appendage?     ",
+                "expectedValue": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Extracorporeal Suture",
+        "instructions": [
+            "Timing of this task begins when first instrument is visible. Timing ends when you have cut both ends of the suture. ",
+            "Use a needle driver to grasp the thread and introduce the suture into the device.",
+            "Using two needle drivers, place a long suture through the two marks on the penrose drain, within 1 mm of the marks.",
+            "Tie 3 single throws of a knot extracorporeally using a knot pusher to secure each throw, closing the slit. ",
+            "Exchange one tool with scissors and cut both ends of the suture."
+        ],
+        "penalties": [
+            "Maximum time: 420 secs",
+            "Time limit for proficiency: 136 secs",
+            "Knot is not fully secure",
+            "Slit in drain is not closed",
+            "Suture is > 1 mm away from marks",
+            "Drain is pulled off foam block"
+        ],
+        "timeLimit": 136,
+        "evaluationQuestions": [
+            {
+                "question": "Is the knot secure?",
+                "expectedValue": true
+            },
+            {
+                "question": "Is the slit closed?",
+                "expectedValue": true
+            },
+            {
+                "question": "Is the suture < 1 mm away from the dots on the drain?   ",
+                "expectedValue": false
+            },
+            {
+                "question": "Did you pull the drain off the foam block?     ",
+                "expectedValue": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Intracorporeal Suture",
+        "instructions": [
+            "Timing of this task begins when first instrument is visible. Timing ends when you have cut both ends of the suture. ",
+            "Use a needle driver to grasp the thread and introduce the suture into the device.",
+            "Using two needle drivers, place a long suture through the two marks on the penrose drain, within 1 mm of the marks.",
+            "Tie 3 single throws of a knot extracorporeally using a knot pusher to secure each throw, closing the slit. ",
+            "Exchange one tool with scissors and cut both ends of the suture."
+        ],
+        "penalties": [
+            "Maximum time: 420 secs",
+            "Time limit for proficiency: 136 secs",
+            "Knot is not fully secure",
+            "Slit in drain is not closed",
+            "Suture is > 1 mm away from marks",
+            "Drain is pulled off foam block"
+        ],
+        "timeLimit": 50,
+        "evaluationQuestions": [
+            {
+                "question": "Is the knot secure?",
+                "expectedValue": true
+            },
+            {
+                "question": "Is the slit closed?",
+                "expectedValue": true
+            },
+            {
+                "question": "Is the suture < 1 mm away from the dots on the drain?   ",
+                "expectedValue": false
+            },
+            {
+                "question": "Did you pull the drain off the foam block?     ",
+                "expectedValue": false
+            }
+        ]
+    }
+]
